@@ -4,11 +4,11 @@
     "url": "https://devops.converja.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/devops.converja.cloud.ico",
     "slug": "converja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 6470,
@@ -16,7 +16,7 @@
     "timeMonth": 941,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-06-30": 8
+      "2023-06-30": 0
     }
   },
   {
