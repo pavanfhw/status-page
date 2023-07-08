@@ -4,7 +4,7 @@
     "url": "https://devops.converja.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/devops.converja.cloud.ico",
     "slug": "converja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 671,
     "timeMonth": 838,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-08": 0
+    }
   },
   {
     "name": "Wikipedia",
