@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/devops.converja.cloud.ico",
     "slug": "converja",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.04%",
-    "time": 647,
-    "timeDay": 245,
-    "timeWeek": 411,
+    "time": 646,
+    "timeDay": 175,
+    "timeWeek": 358,
     "timeMonth": 316,
     "timeYear": 661,
     "dailyMinutesDown": {
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 155,
-    "timeWeek": 129,
-    "timeMonth": 170,
-    "timeYear": 220,
+    "timeDay": 178,
+    "timeWeek": 137,
+    "timeMonth": 169,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 374,
-    "timeDay": 384,
-    "timeWeek": 162,
-    "timeMonth": 248,
-    "timeYear": 379,
+    "timeDay": 347,
+    "timeWeek": 195,
+    "timeMonth": 245,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2024-01-15": 18,
       "2024-01-10": 141,
@@ -90,8 +90,7 @@
       "2023-06-08": 25,
       "2023-06-02": 15,
       "2023-03-28": 69,
-      "2023-03-27": 42,
-      "2023-03-16": 17
+      "2023-03-27": 42
     }
   },
   {
